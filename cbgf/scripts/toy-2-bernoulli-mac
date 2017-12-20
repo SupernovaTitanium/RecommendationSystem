@@ -1,0 +1,6 @@
+cpu 1
+K 2
+maxEpoch 20
+evalEvery 1
+algorithm bernoulli
+edgeListFile /Users/xunzheng/workspace/data/two-communities.txt

@@ -1,0 +1,6 @@
+cpu 4
+K 1000
+maxEpoch 20
+evalEvery 1
+algorithm bulk
+edgeListFile /Users/xunzheng/workspace/data/ca-AstroPh.txt

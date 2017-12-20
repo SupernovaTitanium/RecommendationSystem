@@ -1,0 +1,7 @@
+cpu 1
+K 40
+maxEpoch 100
+weight 1.000000
+algorithm bernoulli
+edgeListFile mygraph.txt
+outputByColsFile mycols.txt
