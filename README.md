@@ -12,7 +12,7 @@ Requirement:
 
 	  2:will create a new directoy named after the data to store per iteration results
 
-	  3:Be careful to check all the paths in the makefile is correct
+	  3:Be careful to check all the paths in the makefile is correct(especially matlab root)
 
 	  4:directly tune parameters by editing script_recom
 

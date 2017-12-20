@@ -27,4 +27,4 @@ blas/blas.a: blas/*.c blas/*.h
 
 clean:
 	make -C blas clean
-	rm -f *~ *.o example
+	rm -f *~ *.o *.$(MEX_EXT)
