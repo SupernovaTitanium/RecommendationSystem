@@ -2,7 +2,9 @@ Usage:
 
       1:make
 
-      2:open matlab and execute script_recom
+      2:create data directory and put the data downloaded from link inside it
+
+      3:open matlab and execute script_recom
 
 Requirement:
 
